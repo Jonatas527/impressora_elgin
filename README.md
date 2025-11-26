@@ -26,7 +26,7 @@ O projeto foi desenvolvido totalmente em Linguagem C.
 
 Faça o download da pasta C Aluno completa que esta no repertorio.
 
-2. Abra o projeto
+2. Abrir projeto
 
 Abra o arquivo principal:
 
@@ -36,7 +36,7 @@ projeto.c
 
 No início do programa, ajuste:
 	•	Porta da impressora
-	•	Tipo de comunicação (USB / MODELO)
+	•	Tipo de comunicação (TIPO / MODELO / PARÂMETRO)
 
 #Como Executar
 
@@ -71,9 +71,19 @@ ImprimirQRCode("https://exemplo.com");
 // Exemplo de abrir gaveta
 AbrirGaveta();
 
-#Documentação Oficial
+##Documentação Adicional
 
-Para funções mais avançadas, consulte o manual da impressora Elgin.
+- Manual da impressora **Elgin i9**
+- Documentação do **SDK Elgin**
+- Referência **ESC/POS**
+
+##Autores
+
+- Eliete Gomes da Silva
+- Gabriel de Souza Silva
+- João Pedro dos Santos Matos
+- Jônatas da Silva Siqueira
+- Rafael Nascimento
 
 #Contribuição
 
